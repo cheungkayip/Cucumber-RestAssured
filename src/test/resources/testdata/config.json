@@ -1,0 +1,9 @@
+{
+  "stubManagementEnvironments": [
+    {
+      "name": "tl72",
+      "url": "http://bankieren-team-42.portaal.rabobank.nl/stub-management/rest/applications",
+    }
+  ],
+  "testData": "default"
+}
