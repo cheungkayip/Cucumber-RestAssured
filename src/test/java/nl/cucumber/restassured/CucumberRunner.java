@@ -1,4 +1,4 @@
-package nl.cucumber.restassured.test.integration;
+package nl.cucumber.restassured;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 
-@CucumberOptions(features = "src/test/resources/nl/cucumber/restassured/test/integration/",
+@CucumberOptions(features = "src/test/resources/nl/cucumber/restassured/",
         tags = { "@RacesSeason2016"},
         plugin = {
         "pretty",
@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         "html:target/cucumber"
         }
         )
-public class ErgastServiceCucumberRunner extends Config {
+public class CucumberRunner extends Config {
 
     @BeforeClass
     public static void setup() throws Exception {

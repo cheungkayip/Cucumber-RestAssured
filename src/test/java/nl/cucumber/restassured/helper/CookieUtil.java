@@ -1,4 +1,4 @@
-package nl.cucumber.restassured.test.integration.helper;
+package nl.cucumber.restassured.helper;
 
 import java.io.*;
 

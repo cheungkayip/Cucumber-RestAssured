@@ -1,9 +1,9 @@
 /**
  *
  */
-package nl.cucumber.restassured.test.integration.helper;
+package nl.cucumber.restassured.helper;
 
-import nl.cucumber.restassured.test.integration.Config;
+import nl.cucumber.restassured.Config;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package nl.cucumber.restassured.test.integration;
+package nl.cucumber.restassured;
 
 import java.util.ResourceBundle;
 
