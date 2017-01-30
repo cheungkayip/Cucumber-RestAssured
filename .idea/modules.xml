@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cucumber-restassured.iml" filepath="$PROJECT_DIR$/cucumber-restassured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured.iml" filepath="$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured_main.iml" group="Cucumber-RestAssured" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cucumber-RestAssured_test.iml" group="Cucumber-RestAssured" />
     </modules>
   </component>
 </project>

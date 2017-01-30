@@ -1,6 +1,0 @@
-{
-  "credentialsAlias": "NOT SIGNED!",
-  "signature": "NOT SIGNED!",
-  "signatureAlgorithm": "SHA-256;RSA",
-  "authorizations": "{\"arrangements\":[{\"arrangementAdministrationCode\":\"14\",\"arrangementNumber\":\"444999\",\"rights\":[\"GN_READ\",\"PS_DB_03\",\"PS_DB_04\",\"PS_DB_06\",\"PS_DB_08\",\"PS_DB_11\",\"PS_DB_09\",\"PS_CR_01\",\"PS_CR_02\",\"PS_CR_03\"]}],\"user\":\"999990000000444\"}"
-}

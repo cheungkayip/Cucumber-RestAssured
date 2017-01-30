@@ -1,9 +1,0 @@
-{
-  "stubManagementEnvironments": [
-    {
-      "name": "tl72",
-      "url": "cucumber",
-    }
-  ],
-  "testData": "default"
-}

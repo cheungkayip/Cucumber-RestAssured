@@ -14,8 +14,10 @@ public class Config {
     protected static String cirpContext;
     protected static boolean sshFlag;
     protected static boolean writeXml;
+    protected static String RACE_SEASON_2016;
 
     public static void loadConfig() {
+        RACE_SEASON_2016 = "http://ergast.com/api/f1/2016.json";
         ResourceBundle rb = ResourceBundle.getBundle("restassured");
         writeXml = Boolean.parseBoolean(rb.getString("writeXML"));
         portletId = rb.getString("portletId");
